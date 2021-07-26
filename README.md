@@ -1,5 +1,5 @@
 ## Interview 정리
 ### JAVA
-[Title](JAVA_Interview)
-[JAVA_Interview](https://github.com/Lindashin15/Interview/blob/main/java-Interview.md, "JAVA_Interview link")
+Link: [JAVA_Interview][googlelink]
+[googlelink]: https://github.com/Lindashin15/Interview/blob/main/java-Interview.md "Go google"
 
