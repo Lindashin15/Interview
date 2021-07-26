@@ -1,4 +1,4 @@
 ## Interview 정리
 ### JAVA
-Link: [java_interview][javainterviewlink]
-[javainterviewlink]: https://github.com/Lindashin15/Interview/blob/main/java-Interview.md  
+[Title](java_interView)
+[JAVA_Interview](https://github.com/Lindashin15/Interview/blob/main/java-Interview.md, "JAVA_Interview link")
