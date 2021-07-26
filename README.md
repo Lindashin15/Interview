@@ -1,10 +1,4 @@
 ## Interview 정리
 ### JAVA
-[link keyword][id]
-
-[id]: URL "Optional Title here"
-
-// code
-Link: [Google][googlelink]
-
-[googlelink]: https://google.com "Go google" 
+Link: [java_interview][javainterviewlink]
+[javainterviewlink]: https://github.com/Lindashin15/Interview/blob/main/java-Interview.md  
